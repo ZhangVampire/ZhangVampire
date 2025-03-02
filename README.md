@@ -1,6 +1,6 @@
 # Hello, I'm Zhang 👋
 
-## My Projects 💻
+## Recommended Projects 💻
 
 <table>
   <tr>

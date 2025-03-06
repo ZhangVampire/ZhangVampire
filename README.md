@@ -2,7 +2,6 @@
 
 ## Reciprocal Links
 https://deepbolt.xyz
-https://svgviewer.app
 
 ## Image Editor
 https://svgviewer.app

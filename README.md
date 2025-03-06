@@ -1,25 +1,8 @@
 # Hello, I'm Zhang 👋
 
-## Recommended Projects 💻
-
-<table>
-  <tr>
-    <td>
-      <h3 align="center">DeepBolt</h3>
-      <a href="https://github.com/sing1ee/deepseekCoder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sing1ee&repo=deepseekCoder&theme=dark" />
-      </a>
-      <p align="center"><a href="https://deepbolt.xyz">DeepSeek R1 Code Generator</a></p>
-    </td>
-    <td>
-      <h3 align="center">SVG Viewer</h3>
-      <div align="center">
-        <img src="assets/svg-viewer.svg" width="240" height="160" alt="SVG Viewer" />
-        <p align="center"><a href="https://svgviewer.app">SVG Viewer</a></p>
-      </div>
-    </td>
-  </tr>
-</table>
+## Reciprocal Links
+https://deepbolt.xyz
+https://svgviewer.app
 
 ## Image Editor
 https://svgviewer.app
